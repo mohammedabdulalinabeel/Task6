@@ -1,5 +1,4 @@
-# Task6
-Task 6 – Contact Form with JavaScript Validation
+#Task 6 – Contact Form with JavaScript Validation
 Objective
 
 Build a contact form with client-side validation for Name, Email, and Message fields, using vanilla HTML, CSS, and JavaScript.
